@@ -1,4 +1,23 @@
 
+
+.container {
+       text-align: center;
+       background: black;
+       margin-top: 10px;
+     
+}
+
+.container div{
+display:inline-block;
+font-size: 60px;
+line-height: 60px;
+padding: 10px;
+margin: 5px;
+border-radius: 0.2em;
+background:#101010;
+color:white;
+
+}
 /* 
 
     You can write your own styles here...
